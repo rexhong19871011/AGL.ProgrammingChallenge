@@ -4,6 +4,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C2C09BA-A5EC-45AF-B44B-08FB80D3F678}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AGL.ProgrammingChallenge.ConsoleApp", "AGL.ProgrammingChallenge.ConsoleApp\AGL.ProgrammingChallenge.ConsoleApp.csproj", "{02A405A8-3821-4DEC-B496-71D424512202}"
 EndProject
